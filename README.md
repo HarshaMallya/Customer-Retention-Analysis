@@ -4,6 +4,10 @@
 - Python, Pandas, Matplotlib, Seaborn
 
 ## Dataset
+Download from Kaggle:
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+
+## Dataset
 Online Retail Dataset - 541,909 transactions
 
 ## Key Findings
